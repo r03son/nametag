@@ -1,0 +1,68 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 812" width="375" height="812">
+	<title>background-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 0L375 0L375 812L0 812L0 0Z" />
+		</clipPath>
+		<radialGradient id="grd1" gradientUnits="userSpaceOnUse"  cx="0" cy="812" r="360">
+			<stop offset="0" stop-color="#4c4c4c"  />
+			<stop offset="1" stop-color="#121214" stop-opacity="0" />
+		</radialGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M0 0L375 0L375 812L0 812L0 0Z" />
+		</clipPath>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="95.128" y1="217.565" x2="2.238" y2="59.047">
+			<stop offset="0" stop-color="#6a696b"  />
+			<stop offset="1" stop-color="#d2d2d2" stop-opacity="0" />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="95.127" y1="110.155" x2="2.238" y2="-48.363">
+			<stop offset="0" stop-color="#aaa9ab"  />
+			<stop offset="1" stop-color="#868586" stop-opacity="0" />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="95.128" y1="-105.732" x2="281.421" y2="6.686">
+			<stop offset="0" stop-color="#d0cfd0" stop-opacity="0" />
+			<stop offset="1" stop-color="#808080"  />
+		</linearGradient>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="375" y1="174.833" x2="188.706" y2="62.415">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="0" />
+			<stop offset="1" stop-color="#a5a5a5"  />
+		</linearGradient>
+		<linearGradient id="grd6" gradientUnits="userSpaceOnUse"  x1="281.709" y1="110.155" x2="374.598" y2="-48.363">
+			<stop offset="0" stop-color="#a5a4a5"  />
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+		</linearGradient>
+		<linearGradient id="grd7" gradientUnits="userSpaceOnUse"  x1="187.418" y1="65.355" x2="280.307" y2="223.873">
+			<stop offset="0" stop-color="#d2ced9"  />
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+		.shp1 { fill: url(#grd1) } 
+		.shp2 { mix-blend-mode: luminosity;fill: url(#grd2) } 
+		.shp3 { mix-blend-mode: luminosity;fill: url(#grd3) } 
+		.shp4 { mix-blend-mode: luminosity;fill: url(#grd4) } 
+		.shp5 { mix-blend-mode: luminosity;fill: url(#grd5) } 
+		.shp6 { mix-blend-mode: luminosity;fill: url(#grd6) } 
+		.shp7 { mix-blend-mode: luminosity;fill: url(#grd7) } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer copy" class="shp0" d="M0 0L375 0L375 812L0 812L0 0Z" />
+			<path id="Layer" class="shp1" d="M0 452C199.08 452 360 612.92 360 812C360 1011.08 199.08 1172 0 1172C-199.08 1172 -360 1011.08 -360 812C-360 612.92 -199.08 452 0 452Z" />
+			<g id="Clip-Path" clip-path="url(#cp2)">
+				<g id="Layer">
+					<g id="Layer" style="opacity: 0.4">
+						<path id="Layer" class="shp2" d="M1.84 61.39L1.84 168.8L95.13 222.5L188.42 168.8L188.42 61.39L95.13 7.69L1.84 61.39Z" />
+						<path id="Layer" class="shp3" d="M1.84 -46.02L1.84 61.39L95.13 115.09L188.42 61.39L188.42 -46.02L95.13 -99.72L1.84 -46.02Z" />
+						<path id="Layer" class="shp4" d="M281.71 -99.7L281.71 7.71L188.42 61.42L95.13 7.71L95.13 -99.7L188.42 -153.4L281.71 -99.7Z" />
+						<path id="Layer" class="shp5" d="M188.42 168.8L188.42 61.39L281.71 7.69L375 61.39L375 168.8L281.71 222.5L188.42 168.8Z" />
+						<path id="Layer" class="shp6" d="M375 -46.02L375 61.39L281.71 115.09L188.42 61.39L188.42 -46.02L281.71 -99.72L375 -46.02Z" />
+						<path id="Layer" class="shp7" d="M280.71 221.53L280.71 114.12L187.42 60.42L94.13 114.12L94.13 221.53L187.42 275.23L280.71 221.53Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
