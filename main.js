@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'r03son',
-  youtube: 'UC59eiGbQFmxuauAgPQ6KKEQ',
+  youtube: 'channel/UC59eiGbQFmxuauAgPQ6KKEQ',
   instagram: 'robson.s.insta',
   twitter: 'robter'
 }
